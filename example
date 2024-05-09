@@ -1,0 +1,15 @@
+
+/*const userController = require('./userController');
+const taskController = require('./taskController');
+
+// Create a new user
+userController.createUser('eshmom', 'eshmom@example.com');
+
+// Retrieve all users
+userController.getUsers();
+
+// Create a new task
+taskController.createTask('Complete project', 'Finish the coding assignment', 1);
+
+// Retrieve all tasks
+taskController.getTasks();*/
